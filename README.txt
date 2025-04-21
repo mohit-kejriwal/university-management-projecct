@@ -73,8 +73,8 @@ https://github.com/mohit-kejriwal/university-management-projecct.git   cd Univer
 --- Terminal 2 (Frontend) ---
 
    cd frontend
-   npm install
-   npm run dev
+npm install --legacy-peer-deps   
+npm run dev
 
 3. Visit the application in your browser:
 
