@@ -60,8 +60,7 @@ INSTALLATION INSTRUCTIONS
 
 1. Clone the repository:
 
-https://github.com/mohit-kejriwal/university-management-projecct.git   cd University-management-app
-
+https://github.com/mohit-kejriwal/university-management-projecct.git
 2. Open two terminal windows:
 
 --- Terminal 1 (Backend) ---
